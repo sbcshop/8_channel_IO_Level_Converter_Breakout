@@ -31,8 +31,8 @@ High Voltage (HV) inputs are located on both sides of the board and range in vol
 To checkout 4 Channel IO Level converter [visit Here](https://github.com/sbcshop/4_channel_IO_Level_Converter_Breakout/tree/main).
 
 ## Repository Contents:
-  - [/Design Data](https://github.com/sbcshop/Ardi_UHF_Shield_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
-  - [/Mecahnical Data](https://github.com/sbcshop/Ardi_UHF_Shield_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
+  - [/Design Data](https://github.com/sbcshop/8_channel_IO_Level_Converter_Breakout/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
+  - [/Mecahnical Data](https://github.com/sbcshop/8_channel_IO_Level_Converter_Breakout/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
 
 ## Related Products
    
