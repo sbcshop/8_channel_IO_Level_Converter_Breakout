@@ -35,7 +35,13 @@ To checkout 4 Channel IO Level converter [visit Here](https://github.com/sbcshop
   - [/Mecahnical Data](https://github.com/sbcshop/8_channel_IO_Level_Converter_Breakout/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
 
 ## Related Products
+  * [4 Channel IO Level Breakout](https://shop.sb-components.co.uk/products/4-channel-io-level-converter-breakout?variant=40495614361683) 
    
+     ![4 Channel IO Level Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/02_bde0572d-3cbc-4736-be2b-e0f3211786e0.jpg?v=1674038361&width=300)   
+
+  * [8 Bit Level Shifter](https://shop.sb-components.co.uk/products/8-bit-level-shifter?_pos=29&_sid=e7d6de6b7&_ss=r) 
+   
+     ![8 Bit Level Shifter](https://cdn.shopify.com/s/files/1/1217/2104/products/8BitLevelShifter_1.png?v=1624016054&width=300) 
 
  
 ## Product License
